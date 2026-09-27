@@ -1,1 +1,1 @@
-worker: python Telegram_CFD_bot.py
+web: python bot.py
